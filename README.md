@@ -1,1 +1,2 @@
 # SimpleVisualMath
+int(main)
